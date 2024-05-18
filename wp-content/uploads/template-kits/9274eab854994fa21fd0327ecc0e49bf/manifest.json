@@ -1,0 +1,1161 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Glowly - Nail Salon & Beauty Care Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Glowly Appointment MetForm",
+            "screenshot": "screenshots\/glowly-appointment-metform.jpg",
+            "source": "templates\/glowly-appointment-metform.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/glowly-appointment-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Glowly Booking MetForm",
+            "screenshot": "screenshots\/glowly-booking-metform.jpg",
+            "source": "templates\/glowly-booking-metform.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/glowly-booking-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Glowly Question MetForm",
+            "screenshot": "screenshots\/glowly-question-metform.jpg",
+            "source": "templates\/glowly-question-metform.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/glowly-question-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Glowly Contact MetForm",
+            "screenshot": "screenshots\/glowly-contact-metform.jpg",
+            "source": "templates\/glowly-contact-metform.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/glowly-contact-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Booking",
+            "screenshot": "screenshots\/booking.jpg",
+            "source": "templates\/booking.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/booking\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Error",
+            "screenshot": "screenshots\/404-error.jpg",
+            "source": "templates\/404-error.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/404-error\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Glowly Header",
+            "screenshot": "screenshots\/glowly-header.jpg",
+            "source": "templates\/glowly-header.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/glowly-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Glowly Footer",
+            "screenshot": "screenshots\/glowly-footer.jpg",
+            "source": "templates\/glowly-footer.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/glowly\/template-kit\/glowly-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "MetForm",
+            "version": "2.2.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.6.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.6.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "fashion-woman-with-stylish-makeup-red-nails-and-li-WAVJ9SY.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/fashion-woman-with-stylish-makeup-red-nails-and-li-WAVJ9SY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 297293,
+            "dimensions": [
+                750,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "Icon-1.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/Icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5040,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "Icon-2.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/Icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5478,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "Icon-3.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/Icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4785,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "hand-and-nail-care-spa-and-beauty-salon-services-h-MZ83B5Za.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/hand-and-nail-care-spa-and-beauty-salon-services-h-MZ83B5Za.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 301630,
+            "dimensions": [
+                700,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "woman-having-nails-filed-by-professional-in-salon-K7AXH7Ha.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/woman-having-nails-filed-by-professional-in-salon-K7AXH7Ha.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 305882,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "salon-manicure-KEHTZWA.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/salon-manicure-KEHTZWA.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 275892,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "young-woman-getting-manicure-in-beauty-salon-SBK75A4.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/young-woman-getting-manicure-in-beauty-salon-SBK75A4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 297573,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "beautiful-fashion-woman-with-a-colored-nails-attra-JKURVSM.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/beautiful-fashion-woman-with-a-colored-nails-attra-JKURVSM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 301156,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "lipsum2.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/lipsum2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3069,
+            "dimensions": [
+                300,
+                91
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "lipsum1.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/lipsum1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3591,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "lipsum6.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/lipsum6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3690,
+            "dimensions": [
+                300,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "lipsum5.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/lipsum5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3360,
+            "dimensions": [
+                300,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "lipsum4.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/lipsum4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2420,
+            "dimensions": [
+                300,
+                79
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "lipsum3.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/lipsum3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3583,
+            "dimensions": [
+                300,
+                92
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "beautician-in-a-beauty-salon-doing-a-hybrid-manicu-2YFLJQL.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/beautician-in-a-beauty-salon-doing-a-hybrid-manicu-2YFLJQL.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 303520,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "nail-polish-application-8QX98K5.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/nail-polish-application-8QX98K5-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 300936,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "portrait-woman-with-urban-background-3G4GZJE.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/portrait-woman-with-urban-background-3G4GZJE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 296764,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "professional-doctor-portrait-of-kind-and-young-fem-GW5QCBP.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/professional-doctor-portrait-of-kind-and-young-fem-GW5QCBP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 250148,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "portrait-of-a-businesswoman-outdoors-D2TR7UB.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/portrait-of-a-businesswoman-outdoors-D2TR7UB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 306490,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "manicured-fingers-touching-nails-samples-4C8G8WNa.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/manicured-fingers-touching-nails-samples-4C8G8WNa-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 300414,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "closeup-face-of-a-fashion-woman-with-stylish-makeu-Y3KZMKNa.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/closeup-face-of-a-fashion-woman-with-stylish-makeu-Y3KZMKNa-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 275898,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "portrait-of-asian-tailor-woman-working-on-clothes-H89ZJUQ.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/portrait-of-asian-tailor-woman-working-on-clothes-H89ZJUQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 302757,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "smiling-small-beauty-salon-owner-BM4RJZ5.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/smiling-small-beauty-salon-owner-BM4RJZ5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 305802,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "smiling-owner-of-hairdresser-salon-33LQX7Q.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/smiling-owner-of-hairdresser-salon-33LQX7Q.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 307258,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "happy-woman-in-pottery-class-portrait-JUHF7ZY.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/happy-woman-in-pottery-class-portrait-JUHF7ZY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 299288,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "happy-woman-in-pottery-class-portrait-956ZDMV.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/happy-woman-in-pottery-class-portrait-956ZDMV.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 307736,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "young-smiling-waitress-standing-at-cafe-entrance-MMN23C3.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/young-smiling-waitress-standing-at-cafe-entrance-MMN23C3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 301766,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "cheerful-female-barista-in-apron-standing-in-coffe-852CG6T.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/cheerful-female-barista-in-apron-standing-in-coffe-852CG6T.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 295800,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "beautician-salon-pedicure-polish-procedure-Y27JE9L.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/beautician-salon-pedicure-polish-procedure-Y27JE9L.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 287460,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "taking-care-of-hands-and-nails-NGQXFQM.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/taking-care-of-hands-and-nails-NGQXFQM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 210166,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "close-up-of-the-hand-of-a-manicurist-who-applies-r-9M3E97Y.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/close-up-of-the-hand-of-a-manicurist-who-applies-r-9M3E97Y.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 285626,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "young-woman-getting-manicure-in-beauty-salon-SBK75A4a.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/young-woman-getting-manicure-in-beauty-salon-SBK75A4a-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 296620,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "female-manicurist-peeling-cuticles-off-man-nail-S67XC8Q.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/female-manicurist-peeling-cuticles-off-man-nail-S67XC8Q.jpg",
+            "templates": [
+                {
+                    "source": "templates\/booking.json",
+                    "name": "Booking"
+                }
+            ],
+            "filesize": 307358,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "beautiful-fashion-woman-with-a-colored-nails-attra-LJ4QN84.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/beautiful-fashion-woman-with-a-colored-nails-attra-LJ4QN84.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 295433,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "nail-polish-drips-from-the-brush-to-the-table-in-t-H2N9NHM.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/nail-polish-drips-from-the-brush-to-the-table-in-t-H2N9NHM-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-error.json",
+                    "name": "404 Error"
+                }
+            ],
+            "filesize": 289904,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "beautiful-manicure-nails-paint-with-glitter-and-ge-YDZXTNS.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/beautiful-manicure-nails-paint-with-glitter-and-ge-YDZXTNS-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 298168,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/GZNBAP2CS4"
+        },
+        {
+            "filename": "Glowly-Logo.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/glowly\/wp-content\/uploads\/sites\/7\/2022\/08\/Glowly-Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/glowly-header.json",
+                    "name": "Glowly Header"
+                },
+                {
+                    "source": "templates\/glowly-footer.json",
+                    "name": "Glowly Footer"
+                }
+            ],
+            "filesize": 11157,
+            "dimensions": [
+                600,
+                209
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

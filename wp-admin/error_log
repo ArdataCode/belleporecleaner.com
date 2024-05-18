@@ -1,0 +1,33 @@
+[13-Mar-2024 02:11:33 UTC] PHP Fatal error:  Uncaught Exception: Invalid post. in /home/landingu/belleporecleaner.com/wp-content/plugins/elementor/core/settings/page/manager.php:101
+Stack trace:
+#0 /home/landingu/belleporecleaner.com/wp-content/plugins/elementor/core/base/document.php(1772): Elementor\Core\Settings\Page\Manager->ajax_before_save_settings()
+#1 /home/landingu/belleporecleaner.com/wp-content/plugins/elementor/core/base/document.php(890): Elementor\Core\Base\Document->save_settings()
+#2 /home/landingu/belleporecleaner.com/wp-content/plugins/elementor/core/kits/manager.php(295): Elementor\Core\Base\Document->update_settings()
+#3 /home/landingu/belleporecleaner.com/wp-content/plugins/elementor/core/kits/manager.php(464): Elementor\Core\Kits\Manager->update_kit_settings_based_on_option()
+#4 /home/landingu/belleporecleaner.com/wp-includes/class-wp-hook.php(326): Elementor\Core\Kits\Manager->Elementor\Core\Kits\{closure}()
+#5 /home/landingu/belleporecleaner.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/landingu/belleporecleaner.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/landingu/belleporecleaner.com/wp-includes/option.php(883): do_action()
+#8 /home/landingu/belleporecleaner.com/wp-admin/options.php(339): update_option()
+#9 {main}
+  thrown in /home/landingu/belleporecleaner.com/wp-content/plugins/elementor/core/settings/page/manager.php on line 101
+[14-Mar-2024 02:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/belleporecleaner.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/belleporecleaner.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/belleporecleaner.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/belleporecleaner.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/belleporecleaner.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/belleporecleaner.com/wp-content/plugins/really-simple-ssl/mailer/class-mail.php(199): wp_mail()
+#5 /home/landingu/belleporecleaner.com/wp-content/plugins/really-simple-ssl/mailer/class-mail.php(124): rsssl_mailer->send_mail()
+#6 /home/landingu/belleporecleaner.com/wp-content/plugins/really-simple-ssl/onboarding/class-onboarding.php(96): rsssl_mailer->send_verification_mail()
+#7 /home/landingu/belleporecleaner.com/wp-includes/class-wp-hook.php(324): rsssl_onboarding->handle_onboarding_action()
+#8 /home/landingu/belleporecleaner.com/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#9 /home/landingu/belleporecleaner.com/wp-content/plugins/really-simple-ssl/settings/settings.php(397): apply_filters()
+#10 /home/landingu/belleporecleaner.com/wp-content/plugins/really-simple-ssl/settings/settings.php(261): rsssl_do_action()
+#11 /home/landingu/belleporecleaner.com/wp-includes/class-wp-hook.php(324): rsssl_rest_api_fallback()
+#12 /home/landingu/belleporecleaner.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#13 /home/landingu/belleporecleaner.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#14 /home/landingu/belleporecleaner.com/wp-admin/admin-ajax.php(188): do_action()
+#15 {main}
+  thrown in /home/landingu/belleporecleaner.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[02-May-2024 04:00:54 UTC] PHP Warning:  Attempt to read property "title" on null in /home/landingu/belleporecleaner.com/wp-includes/class-wp-customize-widgets.php on line 905
